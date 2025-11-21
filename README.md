@@ -1,4 +1,4 @@
-<img width="944" height="830" alt="image" src="https://github.com/user-attachments/assets/156e4309-97b8-4851-9011-9699777c7a4e" /># EXP 3 : IIR-BUTTERWORTH-FITER-DESIGN
+# EXP 3 : IIR-BUTTERWORTH-FITER-DESIGN
 
 ## AIM: 
 
